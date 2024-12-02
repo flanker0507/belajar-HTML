@@ -1,0 +1,61 @@
+/* cascade */
+
+*{
+    font-family: Tahoma;
+}
+
+h1 {
+    font-family: Times;
+}
+
+h3{
+    font-family: Arial;
+}
+
+h3>span {
+    font-family: Arial;
+}
+
+/* merubah span dengan child selector */
+
+h3>span {
+    color: crimson;
+}
+
+span{
+    color: blue;
+}
+
+/* Inheritance */
+
+/* span dalam heading */
+
+h3{
+    font-size: 12px;
+    padding: 10px;
+}
+
+h3>span{
+    padding-left: inherit;
+    padding-right: inherit;
+}
+
+h2{
+    background-color: black;
+    color: beige;
+    padding: 10px;
+}
+
+h3 {
+    background-color: rgba(100, 25, 0, 0.2);
+}
+
+h1{
+    background-color: #ffd6ee;
+    padding: 10px;
+    text-align: center;
+}
+
+body{
+    background-color: azure;
+}
