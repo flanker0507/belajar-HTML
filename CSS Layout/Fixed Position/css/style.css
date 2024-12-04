@@ -1,0 +1,18 @@
+.fixed-position{
+    background-color: aqua;
+    top: 0px;
+    left: 0px;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+}
+
+p{
+    background-color: blue;
+
+}
+.container{
+    margin-top: 100px;
+    background-color: yellowgreen;
+    
+}
