@@ -1,0 +1,18 @@
+blockquote{
+    font-family: 'Segoe UI';
+    font-style: italic;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    width: 200px;
+    float:right;
+    padding: 10px;
+    margin: 10px;
+}
+
+h1{
+    font-family: 'Segoe UI';
+}
+
+p{
+    text-align: justify;
+}
