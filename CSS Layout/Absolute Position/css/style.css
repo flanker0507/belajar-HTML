@@ -1,0 +1,9 @@
+p{
+    background-color: brown;
+}
+
+.absolute-position{
+    position: absolute;
+    top: 100px;
+    background-color: aliceblue;
+}
